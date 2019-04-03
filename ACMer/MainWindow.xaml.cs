@@ -378,8 +378,9 @@ namespace ACMer
             {
                 btnRestore.Content = "2";
                 sizeNormal = new Rect(Left, Top, Width, Height);
-                Left = Top = 0;
                 Rect rc = SystemParameters.WorkArea;
+                Left = rc.Left;
+                Top = rc.Top;
                 Width = rc.Width;
                 Height = rc.Height;
             }

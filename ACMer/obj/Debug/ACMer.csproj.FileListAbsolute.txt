@@ -5,7 +5,6 @@ D:\Documents\Projects\ACMer\ACMer\bin\Debug\ACMer.exe
 D:\Documents\Projects\ACMer\ACMer\bin\Debug\ACMer.pdb
 D:\Documents\Projects\ACMer\ACMer\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
 D:\Documents\Projects\ACMer\ACMer\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
-D:\Documents\Projects\ACMer\ACMer\obj\Debug\ACMer.csprojResolveAssemblyReference.cache
 D:\Documents\Projects\ACMer\ACMer\obj\Debug\Languages\EN.baml
 D:\Documents\Projects\ACMer\ACMer\obj\Debug\Languages\ZH.baml
 D:\Documents\Projects\ACMer\ACMer\obj\Debug\Dialogs\DgAbout.g.cs
@@ -61,3 +60,5 @@ D:\Documents\Projects\ACMer\ACMer\obj\Debug\ACMer.exe
 D:\Documents\Projects\ACMer\ACMer\obj\Debug\ACMer.pdb
 D:\Documents\Projects\ACMer\ACMer\obj\Debug\TimeSetter.g.cs
 D:\Documents\Projects\ACMer\ACMer\obj\Debug\TimeSetter.baml
+D:\Documents\Projects\ACMer\ACMer\obj\Debug\ACMer.csprojAssemblyReference.cache
+D:\Documents\Projects\ACMer\ACMer\obj\Debug\ACMer.csproj.CopyComplete
